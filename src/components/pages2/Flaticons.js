@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Sidenavigation from '../layouts/Sidenavigation';
 import Topnavigation from '../layouts/Topnavigation';
 import Quickbar from '../layouts/Quickbar';
-import Content from '../sections/Flaticons/Content';
+import Content from '../sections2/Flaticons/Content';
 
 class Flaticons extends Component {
     render() {

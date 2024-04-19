@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Sidenavigation from '../layouts/Sidenavigation';
 import Topnavigation from '../layouts/Topnavigation';
 import Quickbar from '../layouts/Quickbar';
-import Content from '../sections/Draggables/Content';
+import Content from '../sections2/Draggables/Content';
 
 class Draggables extends Component {
     render() {

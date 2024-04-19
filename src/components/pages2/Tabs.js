@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Sidenavigation from '../layouts/Sidenavigation';
 import Topnavigation from '../layouts/Topnavigation';
 import Quickbar from '../layouts/Quickbar';
-import Content from '../sections/Tabs/Content';
+import Content from '../sections2/Tabs/Content';
 
 class Tabs extends Component {
     render() {

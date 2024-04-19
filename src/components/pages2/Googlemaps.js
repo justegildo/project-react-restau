@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Sidenavigation from '../layouts/Sidenavigation';
 import Topnavigation from '../layouts/Topnavigation';
 import Quickbar from '../layouts/Quickbar';
-import Content from '../sections/Googlemaps/Content';
+import Content from '../sections2/Googlemaps/Content';
 
 class Googlemaps extends Component {
     render() {

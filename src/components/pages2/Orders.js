@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import Sidenavigation from '../layouts/Sidenavigation';
 import Topnavigation from '../layouts/Topnavigation';
-import Breadcrumb from '../sections/Orders/Breadcrumb';
-import Favorder from '../sections/Orders/Favorder';
-import Ordertable from '../sections/Orders/Ordertable';
+import Breadcrumb from '../sections2/Orders/Breadcrumb';
+import Favorder from '../sections2/Orders/Favorder';
+import Ordertable from '../sections2/Orders/Ordertable';
 import Quickbar from '../layouts/Quickbar';
 
 class Orders extends Component {

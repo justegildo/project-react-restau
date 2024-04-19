@@ -67,7 +67,6 @@ import Portfolio from './components/pages2/Portfolio';
 import Stockmanagement from './components/pages2/Stockmanagement';
 import Userprofile from './components/pages2/Userprofile';
 import Webanalytics from './components/pages2/Webanalytics';
-import ListeMenu from './components/pages/ListeMenu';
 
 
 function App() {
@@ -142,8 +141,6 @@ function App() {
         <Route path="/user-profile" component={Userprofile} />
         <Route path="/web-analytics" component={Webanalytics} />
 
-
-        <Route path="/liste-menu" component={ListeMenu} />
       </Switch>
     </Router>
   );

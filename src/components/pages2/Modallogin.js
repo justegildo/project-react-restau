@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Sidenavigation from '../layouts/Sidenavigation';
 import Topnavigation from '../layouts/Topnavigation';
 import Quickbar from '../layouts/Quickbar';
-import Content from '../sections/Webanalytics/Content';
+import Content from '../sections2/Webanalytics/Content';
 
 class Modallogin extends Component {
     render() {

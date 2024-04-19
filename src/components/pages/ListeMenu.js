@@ -1,22 +1,20 @@
 import React, { Component } from 'react';
 import Sidenavigation from '../layouts/Sidenavigation';
 import Topnavigation from '../layouts/Topnavigation';
-import Catelougebox from '../sections2/Menucatelogue/Catelougebox'
-import Quickbar from '../layouts/Quickbar';
+import Content from '../sections/ListeMenu/Content';
 
-class Menucatalogue extends Component {
+class ListeMenu extends Component {
     render() {
         return (
-            <div className="ms-body ms-aside-left-open ms-primary-theme ms-has-quickbar">
+            <div className="ms-body ms-primary-theme ms-logged-out">
                 <Sidenavigation />
                 <main className="body-content">
                     <Topnavigation />
-                    <Catelougebox/>
+                    <Content/>
                 </main>
-                <Quickbar />
             </div>
         );
     }
 }
 
-export default Menucatalogue;
+export default ListeMenu;

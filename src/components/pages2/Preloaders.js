@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Sidenavigation from '../layouts/Sidenavigation';
 import Topnavigation from '../layouts/Topnavigation';
 import Quickbar from '../layouts/Quickbar';
-import Content from '../sections/Preloaders/Content';
+import Content from '../sections2/Preloaders/Content';
 
 class Preloaders extends Component {
     render() {

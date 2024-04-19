@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Sidenavigation from '../layouts/Sidenavigation';
 import Topnavigation from '../layouts/Topnavigation';
-import Gridcontent from '../sections/Menugrid/Gridcontent'
+import Gridcontent from '../sections2/Menugrid/Gridcontent'
 import Quickbar from '../layouts/Quickbar';
 
 class Menugrid extends Component {

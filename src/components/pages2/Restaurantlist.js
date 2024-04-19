@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Sidenavigation from '../layouts/Sidenavigation';
 import Topnavigation from '../layouts/Topnavigation';
-import Restaurentcontent from '../sections/Restaurant-list/Restaurantcontent'
+import Restaurentcontent from '../sections2/Restaurant-list/Restaurantcontent'
 import Quickbar from '../layouts/Quickbar';
 
 class Restaurantlist extends Component {

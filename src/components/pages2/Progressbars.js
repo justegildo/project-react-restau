@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Sidenavigation from '../layouts/Sidenavigation';
 import Topnavigation from '../layouts/Topnavigation';
 import Quickbar from '../layouts/Quickbar';
-import Content from '../sections/Progress-bar/Content';
+import Content from '../sections2/Progress-bar/Content';
 
 class Progressbars extends Component {
     render() {

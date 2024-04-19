@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Sidenavigation from '../layouts/Sidenavigation';
 import Topnavigation from '../layouts/Topnavigation';
-import Content from '../sections/Social-activity/Content';
+import Content from '../sections2/Social-activity/Content';
 import Quickbar from '../layouts/Quickbar';
 
 class Socialactivity extends Component {

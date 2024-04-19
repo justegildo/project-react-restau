@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Sidenavigation from '../layouts/Sidenavigation';
 import Topnavigation from '../layouts/Topnavigation';
 import Quickbar from '../layouts/Quickbar';
-import Content from '../sections/Portfolio/Content';
+import Content from '../sections2/Portfolio/Content';
 
 class Portfolio extends Component {
     render() {

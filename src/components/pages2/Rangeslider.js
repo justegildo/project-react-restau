@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Sidenavigation from '../layouts/Sidenavigation';
 import Topnavigation from '../layouts/Topnavigation';
 import Quickbar from '../layouts/Quickbar';
-import Content from '../sections/Rangesliders/Content';
+import Content from '../sections2/Rangesliders/Content';
 
 class Rangeslider extends Component {
     render() {

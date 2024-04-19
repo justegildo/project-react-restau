@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Sidenavigation from '../layouts/Sidenavigation';
 import Topnavigation from '../layouts/Topnavigation';
 import Quickbar from '../layouts/Quickbar';
-import Content from '../sections/Formwizard/Content';
+import Content from '../sections2/Formwizard/Content';
 
 class Formwizard extends Component {
     render() {

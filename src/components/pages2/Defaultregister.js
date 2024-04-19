@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Sidenavigation from '../layouts/Sidenavigation';
 import Topnavigation from '../layouts/Topnavigation';
-import Content from '../sections/Defaultregister/Content';
+import Content from '../sections2/Defaultregister/Content';
 
 class Defaultregister extends Component {
     render() {

@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Sidenavigation from '../layouts/Sidenavigation';
 import Topnavigation from '../layouts/Topnavigation';
 import Quickbar from '../layouts/Quickbar';
-import Content from '../sections/Formlayouts/Content';
+import Content from '../sections2/Formlayouts/Content';
 
 class Formlayouts extends Component {
     render() {

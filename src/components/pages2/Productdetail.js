@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Sidenavigation from '../layouts/Sidenavigation';
 import Topnavigation from '../layouts/Topnavigation';
-import Detailcontent from '../sections/Productsdetail/Detailcontent'
+import Detailcontent from '../sections2/Productsdetail/Detailcontent'
 import Quickbar from '../layouts/Quickbar';
 
 class Productdetail extends Component {

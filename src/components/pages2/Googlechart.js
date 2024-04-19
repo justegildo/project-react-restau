@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Sidenavigation from '../layouts/Sidenavigation';
 import Topnavigation from '../layouts/Topnavigation';
 import Quickbar from '../layouts/Quickbar';
-import Content from '../sections/Googlechart/Content';
+import Content from '../sections2/Googlechart/Content';
 
 class Morrischart extends Component {
     render() {

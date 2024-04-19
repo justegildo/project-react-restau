@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Sidenavigation from '../layouts/Sidenavigation';
 import Topnavigation from '../layouts/Topnavigation';
 import Quickbar from '../layouts/Quickbar';
-import Content from '../sections/Vectormaps/Content';
+import Content from '../sections2/Vectormaps/Content';
 
 class Vectormaps extends Component {
     render() {

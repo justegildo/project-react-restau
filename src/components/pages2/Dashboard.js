@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Sidenavigation from '../layouts/Sidenavigation';
 import Topnavigation from '../layouts/Topnavigation';
-import Homecontent from '../sections/Dashboard/Homecontent';
+import Homecontent from '../sections2/Dashboard/Homecontent';
 import Quickbar from '../layouts/Quickbar';
 
 class Dashboard extends Component {

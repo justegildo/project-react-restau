@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Content from '../sections/Error/Content';
+import Content from '../sections2/Error/Content';
 
 class Error extends Component {
     render() {
