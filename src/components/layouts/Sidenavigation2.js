@@ -246,20 +246,6 @@ class Sidenavigation extends Component {
                             </ul >
                         </li >
                         {/* /Icons */}
-                        {/* Liste */}
-                        < li className="menu-item" >
-                            <Link to="#" className="has-chevron"> <span><i className="material-icons fs-16">phone_iphone</i>Autres</span>
-                            </Link>
-                            <ul id="apps" className="collapse" aria-labelledby="apps" data-parent="#side-nav-accordion">
-                                <li> <Link to="/liste-menu" >Liste</Link>
-                                </li>
-                                {/* <li> <Link to="/email" >Email</Link>
-                                </li>
-                                <li> <Link to="/todo-list" >To-do List</Link>
-                                </li > */}
-                            </ul >
-                        </li >
-                        {/* Liste */}
                         {/* Maps */}
                         <li className="menu-item">
                             <Link to="#" className="has-chevron"> <span><i className="material-icons fs-16">map</i>Maps</span>
