@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import Breadcrumb from './Breadcrumb';
 
+
 const Content = () => {
     const [showContent1, setShowContent1] = useState(false);
     const [showContent2, setShowContent2] = useState(false);
@@ -30,7 +31,7 @@ const Content = () => {
                     </div>
 
                     <div className="form-group">
-                        <button className="btn btn-light btn-block" onClick={toggleContent1}>ENTREES <span className=""></span></button>
+                        <button className="btn btn-light btn-block" onClick={toggleContent1}>ENTREES <i className="fa fa-angle-double-down" style={{textAlign: 'left'/*, marginLeft: '20%'*/}} /> </button>
                         {showContent1 && (
                             <div className="" id="section9663">
                                 <div className="ms-card-body">

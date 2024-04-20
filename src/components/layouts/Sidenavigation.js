@@ -253,9 +253,9 @@ class Sidenavigation extends Component {
                             <ul id="apps" className="collapse" aria-labelledby="apps" data-parent="#side-nav-accordion">
                                 <li> <Link to="/liste-menu" >Liste</Link>
                                 </li>
-                                {/* <li> <Link to="/email" >Email</Link>
+                                 <li> <Link to="/code-qr" >Code QR</Link>
                                 </li>
-                                <li> <Link to="/todo-list" >To-do List</Link>
+                                {/*<li> <Link to="/todo-list" >To-do List</Link>
                                 </li > */}
                             </ul >
                         </li >

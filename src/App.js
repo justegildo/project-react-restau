@@ -68,6 +68,7 @@ import Stockmanagement from './components/pages2/Stockmanagement';
 import Userprofile from './components/pages2/Userprofile';
 import Webanalytics from './components/pages2/Webanalytics';
 import ListeMenu from './components/pages/ListeMenu';
+import CodeQr from './components/pages/CodeQr';
 
 
 function App() {
@@ -144,6 +145,7 @@ function App() {
 
 
         <Route path="/liste-menu" component={ListeMenu} />
+        <Route path="/code-qr" component={CodeQr} />
       </Switch>
     </Router>
   );
